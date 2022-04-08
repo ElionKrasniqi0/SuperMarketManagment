@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# BL0004: Component parameter should be public.
+dotnet_diagnostic.BL0004.severity = none
